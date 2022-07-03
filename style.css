@@ -1,0 +1,32 @@
+html{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.Imagem {
+    padding: none;
+    margin: none;
+    border: none;
+    width: 100%;
+    height: 99.3vh;
+}
+
+.qrcode{
+    width: 100%;
+    height: 50%;
+    position: relative;
+    left: 87vh;
+    top: 28Vh;
+}
+
+.Box_Esquerda {
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    margin-left: 10%;
+}
