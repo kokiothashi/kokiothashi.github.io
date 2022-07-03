@@ -8,13 +8,14 @@ body {
     margin: 0;
     border: 0;
 }
-.Imagem {
-    padding: none;
-    margin: none;
-    border: none;
-    width: 100%;
-    height: 99.3vh;
+
+
+body{    background: url('../Upload/Convite.png') no-repeat; background-size: auto;}
+
+@media(max-width:600px)/*aqui você define a largura do dispositivo*/
+{    body{    background: url('../Upload/Convite2.png') no-repeat;background-size: auto;}    
 }
+
 
 .qrcode{
     width: 100%;
