@@ -10,10 +10,11 @@ body {
 }
 
 
-body{    background: url('../Upload/Convite.png') no-repeat; background-size: auto;}
+body{    background: url('../Upload/Convite.png') no-repeat; background-size:cover;}
 
 @media(max-width:600px)/*aqui você define a largura do dispositivo*/
-{    body{    background: url('../Upload/Convite2.png') no-repeat;background-size: auto;}    
+{    body{    background: url('../Upload/Convite3.png') no-repeat;background-size: auto;background-size:cover;width:428px;height:926px;}
+
 }
 
 
